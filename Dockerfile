@@ -1,0 +1,1 @@
+FROM ubi8/python-39:latest
